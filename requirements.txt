@@ -1,0 +1,9 @@
+scikit-learn==1.2.0
+numpy
+pandas
+matplotlib
+streamlit==1.15.2
+Pillow
+seaborn
+plotly
+shap
